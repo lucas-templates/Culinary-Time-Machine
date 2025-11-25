@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Ancient Amphora -->
+  <!-- Body -->
+  <ellipse cx="50" cy="75" rx="18" ry="5" fill="#4E342E" opacity="0.8"/>
+  <path d="M 32 75 Q 32 50 50 50 Q 68 50 68 75" fill="#6A1B9A" stroke="#4E342E" stroke-width="2"/>
+  
+  <!-- Neck -->
+  <rect x="45" y="35" width="10" height="15" fill="#4E342E" rx="2"/>
+  
+  <!-- Rim -->
+  <ellipse cx="50" cy="35" rx="8" ry="3" fill="#4E342E"/>
+  <ellipse cx="50" cy="35" rx="6" ry="2" fill="#6A1B9A" opacity="0.6"/>
+  
+  <!-- Handles -->
+  <path d="M 40 45 Q 30 40 30 50" stroke="#4E342E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 60 45 Q 70 40 70 50" stroke="#4E342E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Decorative pattern -->
+  <circle cx="50" cy="60" r="3" fill="#F5E9DA" opacity="0.6"/>
+  <circle cx="45" cy="65" r="2" fill="#F5E9DA" opacity="0.5"/>
+  <circle cx="55" cy="65" r="2" fill="#F5E9DA" opacity="0.5"/>
+</svg>
+
