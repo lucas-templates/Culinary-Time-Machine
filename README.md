@@ -197,12 +197,6 @@ This project is designed for:
 - **Learning animation timing** and user experience
 - **Experimenting with color schemes** and theming
 
-### 📚 Reference Material
-- **Code examples** for timeline implementations
-- **Animation patterns** for artifact reveals
-- **Responsive design** strategies
-- **JavaScript interaction** patterns
-
 ---
 
 ## 🎯 How to Use the Website
